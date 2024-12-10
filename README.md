@@ -46,10 +46,10 @@ Hi, I'm **Dima**, a **Full-Stack Developer** from **Ukraine** 🇺🇦. I bring 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimmig&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimmig&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimmig&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dimmig&theme=radical)
 
 ---
 
