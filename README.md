@@ -27,7 +27,7 @@ Hi, I'm **Dima**, a **Full-Stack Developer** from **Ukraine** 🇺🇦. I bring 
 
 ---
 
-## 🌟 Why Hire Me?
+## 🌟 Why You Need To Hire Me?
 - **Proven Expertise**: Extensive experience with modern tools and frameworks like React, Redux, PostgreSQL, Go, and Docker.
 - **Problem-Solving Mindset**: Adept at breaking down complex problems into elegant, scalable solutions.
 - **Passion for Learning**: Continuously expanding my skills to stay at the forefront of technology.
