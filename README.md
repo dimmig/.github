@@ -1,4 +1,4 @@
-# 💻 Welcome to My GitHub! 👋
+# 💻 Welcome to My GitHub!👋
 
 Hi, I'm **Dima**, a **Full-Stack Developer** from **Ukraine** 🇺🇦. I bring **years of hands-on experience** crafting high-quality, scalable, and user-centric web applications. I thrive on solving complex problems and building innovative solutions that make an impact.
 
