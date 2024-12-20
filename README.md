@@ -52,6 +52,7 @@ Hi, I'm **Dima**, a **Full-Stack Developer** from **Ukraine** 🇺🇦. I bring 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimmig&theme=radical)
 
+
 ---
 
 ## 🌍 Let's Connect!
@@ -60,6 +61,7 @@ I'm actively looking for **exciting opportunities** to bring my expertise to imp
 - **GitHub**: [https://github.com/dimmig]
 - **LinkedIn**: [https://www.linkedin.com/in/dmytro-halahan-50a3a328b]
 - **Email**: [galagan.dm@gmail.com]
+
 
 ---
 
